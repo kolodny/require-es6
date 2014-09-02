@@ -1,5 +1,3 @@
-var fs = require('fs');
-
 var oldRequire = require;
 
 module.exports = function(pkg) {
