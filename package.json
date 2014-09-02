@@ -1,11 +1,19 @@
 {
   "name": "require-es6",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Require es6 version of module if available as main-es6 prop in package.json",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Moshe Kolodny",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kolodny/require-es6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolodny/require-es6/issues"
+  },
+  "homepage": "https://github.com/kolodny/require-es6"
 }
