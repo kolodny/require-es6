@@ -9,8 +9,11 @@ Example Case:
 
 ### module1/package.json:
 ```js
-	"main": "src/es5/index.js",
-	"main-es6": "src/es6/index.js"
+  "main": "src/es5/index.js",
+  "main-es6": "src/es6/index.js",
+  "dependencies": {
+    "traceur": "0.0.58"
+  }
 ```
 
 ### module1/gulpfile.js snippet

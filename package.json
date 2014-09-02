@@ -1,6 +1,6 @@
 {
   "name": "require-es6",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Require es6 version of module if available as main-es6 prop in package.json",
   "main": "index.js",
   "scripts": {
